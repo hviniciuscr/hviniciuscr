@@ -14,8 +14,6 @@
 #### • 🎮 Gosto de jogos
 #### • 🔎 Amo aprender algo novo
 
-#### Estou fazendo o bootcamp pela DIO como forma de começar de fato em um futuro próximo a integrar minhas formações a tecnologia para poder ser primeiramente um profissional qualificado e posteriormente um empreendedor.
-
 ## Conecte-se comigo
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/hviniciuscr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/hebert-vinicius/)
