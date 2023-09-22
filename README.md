@@ -17,7 +17,7 @@
 ## Conecte-se comigo
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/hviniciuscr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/hebert-vinicius/)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=30a3dc)](https://www.instagram.com/SEUUSERNAME/)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=30a3dc)](https://www.instagram.com/hviniciuscr/)
 [![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/hviniciuscr)
 [![E-mail](https://img.shields.io/badge/Gmail-30a3dc?style=for-the-badge&logo=gmail&logoColor=FFF)](hvinicius87@gmail.com)
 
