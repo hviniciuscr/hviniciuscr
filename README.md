@@ -32,5 +32,4 @@
 ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
 
 ## GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hviniciuscr)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=hviniciuscr&theme=github-dark-blue&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
